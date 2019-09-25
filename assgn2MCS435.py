@@ -3,9 +3,8 @@ Alex Petralia
 M/CS 435
 Assignment 2: Update Directions
 
-Algorithms/Methods Used:
-   -Steepest Descent Method
-   -DFP Algorithm
+Showcases an Armijo Line Search, Steepest Descent Method and the DFP Algorithm
+
 """
 from sympy import *
 import numpy as np
