@@ -2,6 +2,9 @@
 Alex Petralia
 M/CS 435
 Assignment 1: Line search methods (Corrected Version)
+
+Showcases the use of the Armijo Conditions and Newton Conditions for curve matching
+
 """
 from sympy import *
 import numpy as np
